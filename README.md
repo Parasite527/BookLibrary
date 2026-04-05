@@ -65,3 +65,11 @@ cd library_app
 
 # Запуск через Docker Compose
 docker-compose up --build
+```
+
+### API Документация
+
+После запуска приложения документация доступна по адресам:
+ - Swagger UI: http://localhost:8000/docs
+
+ - ReDoc: http://localhost:8000/redoc
